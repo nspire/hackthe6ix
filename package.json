@@ -1,0 +1,9 @@
+{
+  "name": "hackthe6ix",
+  "version": "0.0.0",
+  "private": false,
+  "dependencies": {
+    "debug": "~2.1.1",
+    "express": "~4.11.0"
+  }
+}
